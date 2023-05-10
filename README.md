@@ -43,7 +43,7 @@
 
 ## :link: Links <a name="-links"/></a>
 
-- [YouTube](https://www.youtube.com/watch?v=bCmrhSma5bw&list=PL-mvLy2ws8IJQlIm-OIU9WO-hJPlARq_W) - Vídeos com explicação do código;
+- [YouTube](https://youtu.be/XgjrHNsK3L0?t=1688) - Vídeos com explicação do código;
 
 ## :memo: Licença <a name="-licenca"/></a>
 
